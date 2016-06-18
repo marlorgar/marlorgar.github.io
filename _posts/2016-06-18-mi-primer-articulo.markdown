@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 <h2>MI PRIMER ARTÍCULO CON JEKYLL Y CON GITHUB</h2>
 
-##Primer artículo
+## Primer artículo
 Iremos poniendo distintos artículos interesantes de distintas áreas
 
-###Subsección
+### Subsección
 Mi nombre es Malu Lorenzo  
 En el próximo artículo iré poniendo algunas imagenes
 
