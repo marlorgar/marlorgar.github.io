@@ -14,7 +14,8 @@ Mi nombre es Malu Lorenzo
 En el próximo artículo iré poniendo algunas imagenes
 
 ## imagenes
-{: .fig.small}
+
 Pondreé una imagen <br/>
+{: .fig.small}
 ![un gatito]({{ site.baseurl }}/images/kitten.JPG)
 
