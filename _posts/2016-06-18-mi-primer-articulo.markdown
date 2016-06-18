@@ -17,6 +17,6 @@ En el próximo artículo iré poniendo algunas imagenes
 
  Una imagen  de ejemplo <br/>
 
-![un gatito]({{ site.baseurl }}/images/kitten.JPG | width=100)
+![un gatito]({{ site.baseurl }}/images/kitten.JPG {width=40px height=400px})
 **Figura 1.** Figura de ejemplo
 
