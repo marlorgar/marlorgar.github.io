@@ -12,6 +12,7 @@ Iremos poniendo distintos artículos interesantes de distintas áreas
 1.1.-Subsección
 Mi nombre es Malu Lorenzo  
 En el próximo artículo iré poniendo algunas imagenes
+~~~markdown
 ## imagenes
 Pondreé una imagen <br/>
 ![un gatito]({{ site.baseurl }}/images/kitten.JPG)
