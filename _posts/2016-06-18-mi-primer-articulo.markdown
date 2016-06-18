@@ -16,7 +16,7 @@ En el próximo artículo iré poniendo algunas imagenes
 ## imagenes
 
  Una imagen  de ejemplo <br/>
-{: .small.fig}
-![un gatito]({{ site.baseurl }}/images/kitten.JPG/g/300/300)
+
+![un gatito]({{ site.baseurl }}/images/kitten.JPG/300/300)
 **Figura 1.** Figura de ejemplo
 
