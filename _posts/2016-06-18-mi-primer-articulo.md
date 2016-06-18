@@ -16,3 +16,4 @@ En el próximo artículo iré poniendo algunas imagenes
 ## imagenes
 Pondreé una imagen <br/>
 ![un gatito]({{ site.baseurl }}/images/kitten.JPG)
+~~~
