@@ -15,8 +15,8 @@ En el próximo artículo iré poniendo algunas imagenes
 
 ## imagenes
 
-Pondreé una imagen <br/>
+ Una imagen  de ejemplo <br/>
 {: .small.fig}
-![un gatito]({{ site.baseurl }}/images/kitten.JPG)
+![un gatito]({{ site.baseurl }}/images/kitten.JPG/g/300/300)
 **Figura 1.** Figura de ejemplo
 
