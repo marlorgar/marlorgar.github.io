@@ -1,7 +1,7 @@
-----
+---
 Layout:Post
 Title: !Mi primier artículo!!
-------
+---
 
 MI PRIMIER ARTÍCULO CON JEKYLL Y CON GITHUB
 
