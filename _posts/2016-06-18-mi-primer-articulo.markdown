@@ -15,7 +15,7 @@ En el próximo artículo iré poniendo algunas imagenes
 
 ## imagenes
 
- Una imagen  de ejemplo  :smile: <br/>
+ Una imagen  de ejemplo <br/>
 
 ![un gatito]({{ site.baseurl }}/images/kitten.JPG)
 **Figura 1.** Figura de ejemplo
