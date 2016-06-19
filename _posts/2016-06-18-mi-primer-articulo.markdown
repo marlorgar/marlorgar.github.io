@@ -22,6 +22,6 @@ En el próximo artículo iré poniendo algunas imagenes
 <img src="../images/kitten2.png" width="160" height="32">FNFF</img>
 ![Imagen 1][1]  ![Imagen 2][2]
 
- [1]: ../images/kitten.png
+ [1]: ../images/kitten.JPG
  [2]: ../images/kitten1.png "scaphandre"
 
