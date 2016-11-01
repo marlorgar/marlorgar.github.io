@@ -5,3 +5,4 @@ title: instalando temas # Nombre generado automáticamente
 
 ##d desinstalar
  bundle install --path vendor/bundle`
+ `bundle exec jekyll serve`

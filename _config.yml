@@ -28,7 +28,7 @@ github_username:  marlorgar
 # Build settings
 markdown: kramdown
 highlighter: rouge
-theme: mediator
+theme: minima
 gems:
   - jekyll-feed
 exclude:
